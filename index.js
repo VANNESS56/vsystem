@@ -10,7 +10,7 @@ const {
   prepareWAMessageMedia,
   getMandarinObfuscationConfig,
   generateWAMessage,
-} = require("whiskeysockets/baileys");
+} = require("@whiskeysockets/baileys");
 const { Octokit } = require("@octokit/rest");
 const fs = require("fs");
 const os = require("os");
