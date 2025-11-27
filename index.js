@@ -33,7 +33,7 @@ const FormData = require("form-data");
 
 const premiumFile = "./DatabaseUser/premiumuser.json";
 const adminFile = "./DatabaseUser/adminuser.json";
-const ownerFile = "./phenoxId.json";
+const ownerFile = "./V-SYSTEMId.json";
 const ownerID = 6143435003;
 const proccesImg = "https://files.catbox.moe/wz0emw.jpg";
 
